@@ -1,3 +1,4 @@
+// 用state和锁共同实现
 #include <iostream>
 #include <thread>
 #include <mutex>
